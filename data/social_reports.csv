@@ -1,0 +1,53 @@
+id,source,description,location,expected_disaster,severity
+1,Twitter,Huge fire reported near Gandhipuram bus stand in Coimbatore. Thick smoke visible everywhere.,chennai,Fire,High
+2,Twitter,Flood water entering houses in Velachery after continuous rainfall.,Velachery,Flood,High
+3,Facebook,Major accident involving two buses near Salem bypass with multiple injuries.,Salem,Accident,High
+4,Twitter,Strong winds uprooted trees in Nagapattinam as cyclone approaches.,Nagapattinam,Cyclone,Critical
+5,Reddit,Water logging becoming severe around RS Puram roads after heavy rain.,RS Puram,Flood,Medium
+6,Twitter,Chemical smell spreading near SIPCOT Cuddalore industrial estate.,Cuddalore,Chemical Leak,Critical
+7,Facebook,Heavy rainfall causing severe traffic congestion across Madurai city.,Madurai,Flood,Medium
+8,Twitter,Bridge near Pollachi submerged due to overflowing river.,Pollachi,Flood,High
+9,Twitter,Fire broke out in a textile warehouse at Tiruppur industrial area.,Tiruppur,Fire,Critical
+10,Facebook,Landslide blocks the main road leading to Ooty after overnight rainfall.,Ooty,Landslide,High
+11,Twitter,People stranded due to flash floods in Kodaikanal hills.,Kodaikanal,Flood,Critical
+12,Reddit,Power outage reported across Tambaram after severe thunderstorm.,Tambaram,Storm,Medium
+13,Twitter,Building collapse reported near Anna Nagar Chennai following heavy rain.,Anna Nagar,Building Collapse,Critical
+14,Facebook,Road accident near Hosur toll plaza causing heavy traffic.,Hosur,Accident,Medium
+15,Twitter,Forest fire spreading rapidly near Mettupalayam foothills.,Mettupalayam,Forest Fire,Critical
+16,Twitter,Sea waves rising dangerously near Kanyakumari beach.,Kanyakumari,Tsunami Alert,High
+17,Facebook,Flooding reported around Chidambaram bus stand after heavy rain.,Chidambaram,Flood,High
+18,Twitter,Gas leak suspected inside apartment near Coimbatore Airport.,Coimbatore,Gas Leak,Critical
+19,Reddit,Heavy rain causing water stagnation across Peelamedu roads.,Peelamedu,Flood,Medium
+20,Twitter,Fire engines rushed to Ukkadam market after a shop caught fire.,Ukkadam,Fire,High
+21,Facebook,Lightning damaged an electrical transformer in Karur.,Karur,Storm,Medium
+22,Twitter,Flood warning issued for Thanjavur low-lying areas.,Thanjavur,Flood,High
+23,Reddit,Several vehicles stranded in Tiruchirappalli after continuous rainfall.,Tiruchirappalli,Flood,Medium
+24,Twitter,Ambulance delayed because of severe traffic congestion in Chennai.,Chennai,Traffic Emergency,Medium
+25,Facebook,Massive tree fell across road in Coonoor after heavy rainfall.,Coonoor,Landslide,Medium
+26,Twitter,Fire accident at Sivakasi fireworks factory.,Sivakasi,Industrial Fire,Critical
+27,Reddit,Water overflowing roads near Tirunelveli junction due to heavy rain.,Tirunelveli,Flood,High
+28,Twitter,Cyclone warning issued for Cuddalore coastal region.,Cuddalore,Cyclone,Critical
+29,Facebook,Minor earthquake tremors felt near Vellore city.,Vellore,Earthquake,Medium
+30,Twitter,People evacuated from coastal areas of Velankanni.,Velankanni,Cyclone,Critical
+31,Reddit,Heavy smoke observed near industrial zone in Hosur.,Hosur,Industrial Fire,High
+32,Twitter,Road completely blocked near Bhavani because of flooding.,Bhavani,Flood,High
+33,Facebook,Warehouse fire reported near Ambattur industrial estate.,Ambattur,Fire,Critical
+34,Twitter,Bus overturned near Dindigul highway after collision.,Dindigul,Accident,High
+35,Facebook,Flash flood warning around Theni district.,Theni,Flood,Critical
+36,Twitter,Boat rescue operation started near Rameswaram coast due to rough sea.,Rameswaram,Cyclone,High
+37,Reddit,Heavy rain disrupting transportation near Chengalpattu.,Chengalpattu,Flood,Medium
+38,Twitter,Large crowd gathered after building fire in Tiruvannamalai.,Tiruvannamalai,Fire,High
+39,Facebook,Bridge damaged near Namakkal due to continuous rainfall.,Namakkal,Flood,High
+40,Twitter,Forest fire spreading towards Yercaud hills.,Yercaud,Forest Fire,Critical
+41,Reddit,Landslide warning issued for Nilgiris district.,Nilgiris,Landslide,Critical
+42,Twitter,Fire reported inside shopping complex in Tiruchirappalli.,Tiruchirappalli,Fire,High
+43,Facebook,Rescue teams deployed after flooding in Mayiladuthurai.,Mayiladuthurai,Flood,High
+44,Twitter,People trapped inside apartment due to fire in Avadi.,Avadi,Fire,Critical
+45,Reddit,Road cracked after heavy rainfall near Dharmapuri.,Dharmapuri,Landslide,Medium
+46,Twitter,Chemical leak reported inside factory near Ranipet.,Ranipet,Chemical Leak,Critical
+47,Facebook,Severe flooding affecting schools in Kanchipuram.,Kanchipuram,Flood,High
+48,Twitter,High waves causing concern near Thoothukudi harbour.,Thoothukudi,Cyclone,High
+49,Reddit,Heavy rain disrupting train services near Villupuram.,Villupuram,Flood,Medium
+50,Twitter,Smoke rising from commercial building in Erode city.,Erode,Fire,High
+51,Twitter,Chemical leak reported inside factory near Ranipet.,Ranipet,Chemical Leak, medium
+
