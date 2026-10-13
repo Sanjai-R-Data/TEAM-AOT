@@ -1,0 +1,1 @@
+A smart disaster response system developed for a college AI hackathon that uses Zero shot classification to analyze disaster reports, prioritize incidents, and assist rescue coordination through interactive maps and resource recommendations.
